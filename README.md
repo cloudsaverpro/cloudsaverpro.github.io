@@ -1,2 +1,2 @@
 # pages
-testing pages
+testing the pages
